@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación Java que permite convertir diferentes monedas utilizando tasas de cambio obtenidas desde la API ExchangeRate-API. Los usuarios pueden seleccionar entre varias opciones de conversión y los resultados se registran en un archivo de texto para futuras referencias.
 
-Características
+Características:\n
 Interfaz interactiva: Proporciona un menú para seleccionar el tipo de conversión de moneda.
 Monedas soportadas:
 Dólar estadounidense (USD)
