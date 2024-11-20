@@ -1,0 +1,24 @@
+(USD) Equivale a 1.76689804E7(COP), con una tasa de conversión de 4417.2451Consulta: 4000.0 (USD) Equivale a 23153.2(BRL), con una tasa de conversión de 5.7883 el día: 19-11-2024 15:53
+Consulta: 20000.0 (USD) Equivale a 8.8344902E7(COP), con una tasa de conversión de 4417.2451 el día: 19-11-2024 15:53
+El valor ingresado: 49999.0 (USD) Equivale a 289409.2117(BRL), con una tasa de conversión de 5.7883
+Consulta realizada el día: 19-11-2024 16:09
+*****************************************************
+El valor ingresado: 40000.0 (USD) Equivale a 1.76689804E8(COP), con una tasa de conversión de 4417.2451
+Consulta realizada el día: 19-11-2024 16:09
+*****************************************************
+El valor ingresado: 90000.0 (BRL) Equivale a 15552.0(USD), con una tasa de conversión de 0.1728
+Consulta realizada el día: 19-11-2024 16:09
+*****************************************************
+
+El valor ingresado: 6.0 (BRL) Equivale a 1.0368(USD), con una tasa de conversión de 0.1728
+Consulta realizada el día: 19-11-2024 16:11
+*****************************************************
+                                                         
+El valor ingresado: 290000.0 (BRL) Equivale a 50228.0(USD), con una tasa de conversión de 0.1732
+Consulta realizada el día: 19-11-2024 22:48
+*****************************************************
+                                                         
+El valor ingresado: 9087.0 (USD) Equivale a 52390.1898(BRL), con una tasa de conversión de 5.7654
+Consulta realizada el día: 20-11-2024 00:42
+*****************************************************
+                                                         
