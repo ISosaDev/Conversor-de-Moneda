@@ -11,7 +11,7 @@ import java.net.http.HttpResponse;
 public class ConsultaDivisas {
 
     public Divisa busquedaDivisa(String base_code, String target_code, double cantidadDeCambio) {
-        URI direccion = URI.create("https://v6.exchangerate-api.com/v6/62b2ec3137f69b6fa5bd615a/pair/"
+        URI direccion = URI.create("https://v6.exchangerate-api.com/v6/"TU-APIKEY"/pair/"
                         +base_code+"/"+target_code+"/"+cantidadDeCambio);
 
         HttpClient client = HttpClient.newHttpClient();
